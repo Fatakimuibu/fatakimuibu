@@ -1,1 +1,1 @@
-Page web Static pour une agence web // Html + CSS
+Page web Static pour des solutions web // Html + CSS
